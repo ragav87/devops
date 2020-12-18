@@ -5,7 +5,7 @@ public class DemoFunctions {
 	public static void main(String[] args) {
 		System.out.println("area of rectangle:" + RectangleArea(15,10));
 		System.out.println("area of rectangle:" + RectanglePerimeter(15,10));
-
+ System.out.println("area of rectangle:" + RectanglePerimeter(45,10));
 
 	}
 	public static int RectangleArea(int length, int breadth)
@@ -19,4 +19,4 @@ public class DemoFunctions {
 		
 	}
 }
-
+ 
